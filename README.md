@@ -2,7 +2,7 @@
 
 Sqlite CURD Example/Demo For PHP/Python
 
-（sqlite操作实例）
+（Sqlite操作实例）
 
 
 ## Function
