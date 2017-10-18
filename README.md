@@ -20,7 +20,7 @@ Sqlite CURD Example/Demo For PHP/Python
 ## Log
 
 （日志）
-- soon，Python sqlite/PHP sqlite3
+- Soon，Python sqlite/PHP sqlite3
 - 20171018，PHP PDO操作实例
 
 
